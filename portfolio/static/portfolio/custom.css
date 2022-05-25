@@ -1,0 +1,27 @@
+.main_home {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.photo_p {
+    width: 33%;
+}
+
+.blog_posts {
+    text-decoration: none;
+    color:#ffc720;
+}
+.nav-link{
+    display: flex;
+    align-items:center;
+}
+.btn{
+    display: flex;
+    align-items:center;  
+}
+.name_post{
+    padding: 20px 0px;
+}
+.date_post{
+    color:#ffc720;
+}
